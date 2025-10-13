@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "ItMyTaskClean.API.Controllers.WorkController",
+    "Method": "GetAllWorks",
+    "RelativePath": "api/works",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ItMyTaskClean.Application.DTOs.Response.WorkSmallInfo, ItMyTaskClean.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ItMyTaskClean.API.Controllers.WorkController",
+    "Method": "AddWorkAsync",
+    "RelativePath": "api/works",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workParams",
+        "Type": "ItMyTaskClean.Application.DTOs.Request.WorkParamsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ItMyTaskClean.API.Controllers.WorkController",
+    "Method": "GetWorkByIdAsync",
+    "RelativePath": "api/works/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ItMyTaskClean.API.Controllers.WorkController",
+    "Method": "UpdateWork",
+    "RelativePath": "api/works/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "workParams",
+        "Type": "ItMyTaskClean.Application.DTOs.Request.WorkParamsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ItMyTaskClean.API.Controllers.WorkController",
+    "Method": "DeleteWork",
+    "RelativePath": "api/works/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

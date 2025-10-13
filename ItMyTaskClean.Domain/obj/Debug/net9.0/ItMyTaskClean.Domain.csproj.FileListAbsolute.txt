@@ -1,0 +1,11 @@
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.Domain\bin\Debug\net9.0\ItMyTaskClean.Domain.deps.json
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.Domain\bin\Debug\net9.0\ItMyTaskClean.Domain.dll
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.Domain\bin\Debug\net9.0\ItMyTaskClean.Domain.pdb
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.Domain\obj\Debug\net9.0\ItMyTaskClean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.Domain\obj\Debug\net9.0\ItMyTaskClean.Domain.AssemblyInfoInputs.cache
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.Domain\obj\Debug\net9.0\ItMyTaskClean.Domain.AssemblyInfo.cs
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.Domain\obj\Debug\net9.0\ItMyTaskClean.Domain.csproj.CoreCompileInputs.cache
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.Domain\obj\Debug\net9.0\ItMyTaskClean.Domain.dll
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.Domain\obj\Debug\net9.0\refint\ItMyTaskClean.Domain.dll
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.Domain\obj\Debug\net9.0\ItMyTaskClean.Domain.pdb
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.Domain\obj\Debug\net9.0\ref\ItMyTaskClean.Domain.dll

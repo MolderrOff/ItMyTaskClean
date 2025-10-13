@@ -1,0 +1,17 @@
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\bin\Debug\net9.0\ItMyTaskClean.API.deps.json
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\bin\Debug\net9.0\ItMyTaskClean.API.dll
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\bin\Debug\net9.0\ItMyTaskClean.API.pdb
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\bin\Debug\net9.0\ItMyTaskClean.Application.dll
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\bin\Debug\net9.0\ItMyTaskClean.Domain.dll
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\bin\Debug\net9.0\ItMyTaskClean.Application.pdb
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\bin\Debug\net9.0\ItMyTaskClean.Domain.pdb
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\obj\Debug\net9.0\ItMyTaskClean.API.csproj.AssemblyReference.cache
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\obj\Debug\net9.0\ItMyTaskClean.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\obj\Debug\net9.0\ItMyTaskClean.API.AssemblyInfoInputs.cache
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\obj\Debug\net9.0\ItMyTaskClean.API.AssemblyInfo.cs
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\obj\Debug\net9.0\ItMyTaskClean.API.csproj.CoreCompileInputs.cache
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\obj\Debug\net9.0\ItMyTask.0CA3C8F6.Up2Date
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\obj\Debug\net9.0\ItMyTaskClean.API.dll
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\obj\Debug\net9.0\refint\ItMyTaskClean.API.dll
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\obj\Debug\net9.0\ItMyTaskClean.API.pdb
+C:\VStudio2022\ItMyTask2-Clean\ItMyTaskClean.API\obj\Debug\net9.0\ref\ItMyTaskClean.API.dll
